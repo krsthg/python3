@@ -1,4 +1,4 @@
-#011
+#011: 바인딩 => 저장
 삼성전자 = 50000
 총평가금액 = 50000*10
 print("총 평가금액: ", 총평가금액)
@@ -17,26 +17,23 @@ s= "hello"
 t= "python"
 print(s,"!", t)
 
-#014
-print("2+2*3")
+#014: 8
 print(2+2*3)
 
-#015
+#015: type(): 데이터 타입 판별 함수
 a=128
 print(type(a))
+    #int: 정수 float: 실수 str: 문자
 
-a=132
-print(type(a))
-
-#016
+#016: int("문자") 함수: 숫자로 변환
 num_str="720"
-print(int(num_str))
+print(int(num_str)) #문자 => 숫자로 변환
 
-#017
+#017: str("숫자") 함수: 문자로 변환
 num = 100
 print(str(num))
 
-#018
+#018: float("문자") 함수: 실수로 변환
 t = "15.79"
 print(float(t))
 
