@@ -30,18 +30,15 @@ print(type(a))
 
 #016
 num_str="720"
-n = int(num_str)
-print(n)
+print(int(num_str))
 
 #017
 num = 100
-t = str(num)
-print(t)
+print(str(num))
 
 #018
 t = "15.79"
-n = float(t)
-print(n)
+print(float(t))
 
 #019
 year = "2020"
