@@ -30,26 +30,26 @@ print(type(a))
 
 #016
 num_str="720"
-정수형 = int(num_str)
-print(정수형)
+n = int(num_str)
+print(n)
 
 #017
 num = 100
-문자열 = str(num)
-print(문자열)
+t = str(num)
+print(t)
 
 #018
-문자열2= "15.79"
-실수타입 = float(문자열2)
-print(실수타입)
+t = "15.79"
+n = float(t)
+print(n)
 
 #019
 year = "2020"
-정수형2 = int(year)
-print(정수형2+1, 정수형2+2,정수형2+3)
+n = int(year)
+print(n+1, n+2, n+3)
 
 #020
-에어컨월 = 48584
-무이자 = 36
-총금액 = 에어컨월 * 무이자
-print("총 금액은:", 총금액)
+a = 48584
+c = 36
+m = a * c
+print("총 금액은:", m)
