@@ -46,3 +46,4 @@ print(분기[0:7]) #0~6위치 문자 출력
 data = "   삼성전자   "
 print(data.strip())
 
+
