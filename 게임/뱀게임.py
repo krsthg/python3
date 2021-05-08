@@ -113,8 +113,6 @@ while True: #계속 반복하기
         게임종료메세지 = 긁.render(" ", True,(29, 100, 161)) #공백
         점수판 = 긁.render("Score: "+str(score), True,(29, 100, 161))
 
-
-
     그리기(점수판,게임종료메세지)
-    FPS.tick(5)
-
+    k = score // 10
+    FPS.tick(5+5*k)
