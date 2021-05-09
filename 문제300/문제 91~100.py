@@ -20,24 +20,28 @@ print(inventory)
 
 #095
 icecream = {'탱크보이':1200,'폴라포':1200,'빵빠레':1800,'월드콘':1500, '메로나':1000}
-print(icecream.keys()) #keys() 함수 사용시 딕셔너리내 모든 키를 가져옥;
+print(icecream.keys()) #keys() 함수 사용시 딕셔너리내 모든 키를 가져옴
 
 #096
-print(icecream.values())
+print(icecream.values()) #values() 함수 사용디 딕셔너리내 모든 값을 가져옴
 
 #097
 print("아이스크림 금액의 총합:", sum(icecream.values()))
+    #sum(리스트): 모든 항목들의 합계
 
 #098
 new_product = {'팥빙수':2700, '아맛나':1000}
 icecream.update(new_product)
 print(icecream)
+    #dic1.update(dict2): dict1에 dict2 추가
 
 #099
 keys = ("apple","pear","peach")
 vals = (300,250,400)
 result = dict(zip(keys,vals))
 print(result)
+        #dict(zip(튜플1, 튜플2))
+        #dict(zip('키','값'))
 
 #100
 date = ['09/05', '09/06', '09/07', '09/08', '09/09']
