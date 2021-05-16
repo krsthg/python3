@@ -17,7 +17,7 @@ s= "hello"
 t= "python"
 print(s,"!", t)
 
-#014: 8
+#014
 print(2+2*3)
 
 #015: type(): 데이터 타입 판별 함수
