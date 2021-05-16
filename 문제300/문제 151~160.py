@@ -36,7 +36,7 @@ for i in list:
 #157
 list = ['dog','cat','parrot']
 for i in list:
-    print(i[0].upper()+i[1:])
+    print(i.capitalize())
 
 #158
 list = ['hello.py','ex01.py','define.h','run.py']
