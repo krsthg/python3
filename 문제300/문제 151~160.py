@@ -18,8 +18,9 @@ for i in list:
 
 #154
 list = ["I","study","python","language","!"]
-for i in list[1:4]:
-    print(i)
+for i in list:
+    if len(i)>=3:
+        print(i)
 
 #155
 list = ['A',"b","c","D"]
