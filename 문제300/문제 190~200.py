@@ -62,5 +62,5 @@ for i in ohlc:
 #200
 a = 0
 for i in ohlc[1:]:
-    a+=(i[3]-i[0])
+    a=(i[3]-i[0])
     print(a)
