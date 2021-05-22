@@ -60,7 +60,7 @@ for i in ohlc:
         print(i[1]-i[2])
 
 #200
-a = 0
+k= 0
 for i in ohlc[1:]:
-    a=(i[3]-i[0])
-    print(a)
+    k=(i[3]-i[0])
+    print(k)
