@@ -11,3 +11,12 @@ soup = bs(html.read(), 'html.parser')
 금시세 = soup.find_all('em', {'class':'down _now_value'})
 
 print("현재 금 시세: ", 금시세[0].text, '원 입니다.')
+
+
+# 은
+url = 'https://finance.naver.com/marketindex/worldGoldDetail.nhn?marketindexCd=CMDT_SI&fdtc=2'
+html = ur.urlopen(url)
+soup = bs(html.read(), 'html.parser')
+은시세 = soup.find_all('em', {'class':'no_up'})
+i = 은시세[0].text
+print("현재 은 시세:", i.split("1")[0],"달러 입니다.")
