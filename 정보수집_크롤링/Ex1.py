@@ -28,5 +28,5 @@ for i in soup.find_all('span'):
     print(i.text)
 
 #span에 포함된 해당 클래스만 찾기
-for i in soup.find_all('span', {"class":"quote"}):
+for i in soup.find_all('div', {"class":"quote"}):
     print(i.text)

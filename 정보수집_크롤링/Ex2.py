@@ -22,3 +22,4 @@ print(태그)
 soup = bs(웹문서.read(),'html.parser')
 태그 = soup.find_all('div',{'class':'tit3'})
 print(태그)
+
