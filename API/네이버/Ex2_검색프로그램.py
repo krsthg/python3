@@ -32,6 +32,15 @@ def naver(catergory, sn):
         t = re.sub('<.+?>', '', i['title'], 0, re.I | re.S)
         print("검색결과 =>", t)
 
+        if catergory == 'shop':
+            print('-> 최저가:', i['lprice'])
+
+        if catergory == 'movie':
+            print('-> 평점:', i['userRating'])
+
+        if catergory == 'news':
+            print('-> 주요내용:  ',i['description'])
+
 
 #프로그램 코드
 while True: #무한반복하기-> 0번을 입력하면 종료된다.
