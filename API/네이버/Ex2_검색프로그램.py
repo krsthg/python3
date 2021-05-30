@@ -11,7 +11,7 @@ def naver(catergory, sn):
     #검색결과를 json으로 가져오기
     url = "https://openapi.naver.com/v1/search/" + catergory+".json"
     option = "&display="+sn+"&sort=count" #display: 출력갯수[검색결과 수]
-    query = "?query="+urllib.parse.quote(input(catergory+"의 검색 정보를 입력해주세요.\nㄴ"))
+    query = "?query="+urllib.parse.quote(input(catergory2+"의 검색 정보를 입력해주세요.\nㄴ"))
     url_query = url +query +option
 
     request = urllib.request.Request(url_query)
@@ -36,23 +36,38 @@ def naver(catergory, sn):
 #프로그램 코드
 while True: #무한반복하기-> 0번을 입력하면 종료된다.
     print('검색[naverAPI] 프로그램')
-    print('카테고리[1.뉴스 2.쇼핑 3.도서 0.종료]')
+    print('카테고리[1.뉴스 2.쇼핑 3.도서 4.영화 5.단어[사전] 0.종료]')
     choose = int(input("선택: ")) #입력받아 선택변수에 저장
 
     #선택제어
     if choose == 1:
         catergory = "news"
+        catergory2 = '뉴스'
         sn = input("-> 뉴스를 선택했습니다.\n몇개를 출력할까요?\nㄴ")
         naver(catergory, sn)
 
     if choose == 2:
         catergory = "shop"
+        catergory2 = '쇼핑'
         sn = input("-> 쇼핑을 선택했습니다.\n몇개를 출력할까요?\nㄴ")
         naver(catergory, sn)
 
     if choose == 3:
         catergory = "book"
+        catergory2 = '책'
         sn = input("-> 책을 선택했습니다.\n몇개를 출력할까요?\nㄴ")
+        naver(catergory, sn)
+
+    if choose == 4:
+        catergory = "movie"
+        catergory2 = '영화'
+        sn = input("-> 영화를 선택했습니다.\n몇개를 출력할까요?\nㄴ")
+        naver(catergory, sn)
+
+    if choose == 5:
+        catergory = "encyc"
+        catergory2 = '단어[사전]'
+        sn = input("-> 단어[사전]를 선택했습니다.\n몇개를 출력할까요?\nㄴ")
         naver(catergory, sn)
 
     if choose == 0:
