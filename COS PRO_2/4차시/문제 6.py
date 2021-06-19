@@ -1,6 +1,6 @@
 def solution(point):
     answer = 0
-    # if point > 1000:
+    # if point < 1000:
     #     return 0
     # return point -(point//100)
     if point >= 1000:

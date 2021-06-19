@@ -10,7 +10,7 @@ def func_b(score1, score2): #최종 승리자 구하는 함수
     else:
         return [0, score1]
 
-def func_c(bundle): #카드의 점수 구학 함수
+def func_c(bundle): #카드의 점수 구하기 함수
     answer = 0
     score_per_cards = {
         'a': 1,
