@@ -1,5 +1,4 @@
 # import math
-
 def solution(scores, cutline):
     answer = 0
     for score in scores: #점수리스트를 하나씩 점수에 넣기
