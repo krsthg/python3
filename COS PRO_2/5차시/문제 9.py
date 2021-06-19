@@ -14,6 +14,9 @@ def solution(score):
         #함수 형태: def 함수(x, y):
         #               return x+y
         #         함수(10,20)
+
+        #map: map(score, list) => 리스트내 점수를 하나씩 반환
+
     return answer
 
 score1 = [90, 87, 87, 23, 35, 28, 12, 46] #점수 리스트
