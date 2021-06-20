@@ -13,9 +13,9 @@ def solution(cards):
             cardcolor[2] +=1
         answer += int(card[1]) #카드 숫자를 answer 에 누적해서 더하기
     if cardcolor[0] == 3 or cardcolor[1] == 3 or cardcolor[2] == 3:
-        answer *3 #동일한 카드가 3개이면 총합에 *3
+        answer *=3 #동일한 카드가 3개이면 총합에 *3
     elif cardcolor[0] == 2 or cardcolor[1] == 2 or cardcolor[2] == 2:
-        answer*2 #동일한 카드가 2개이면 총합에 *2
+        answer*=2 #동일한 카드가 2개이면 총합에 *2
     return answer
 
 cards1 = [["blue", "2"], ["red", "5"], ["black", "3"]]
