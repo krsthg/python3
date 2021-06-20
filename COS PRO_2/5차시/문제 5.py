@@ -1,8 +1,9 @@
 def solution(a, b):
     answer = 0
     for i in range(1, b + 1):
-        if (a * i) % b == 0:
-            answer = a * i
+        if (a * i) % b == 0: #a*b가 b의 배수가 될때 찾기
+            #answer = b * i => 오답
+            answer = a * i #i가 3일때
             break
     return answer
 
