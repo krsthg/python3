@@ -16,8 +16,8 @@ def func_b(a, b): #첫번째 최대방문객수와 두번째 최대방문객수
 def func_c(arr):    #방문개 리스트에서 가장 많은 방문객 수를 구하는 함수
     ret = -1 #최대값을 -1로 설정
     for x in arr: #방문객 리스트에서 하나씩 x에 대입
-        if ret < x: #x가 최댓값보다
-            ret = x #x를 최댓값에 저장
+        if ret < x: #x가 최대값보다
+            ret = x #x를 최대값에 저장
     return ret
 
 def solution(visitor):
