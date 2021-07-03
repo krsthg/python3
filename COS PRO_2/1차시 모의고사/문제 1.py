@@ -9,8 +9,4 @@ def func_a(k): #m->k        n-1->k
         sum += i #i를 sum에 저장
     return sum
 
-def solution(n, m):
-    sum_to_m = func_a(m) #1단계
-    sum_to_n = func_a(n-1) #2단계
-    answer = sum_to_m - sum_to_n #3단계
-    return answer
+
