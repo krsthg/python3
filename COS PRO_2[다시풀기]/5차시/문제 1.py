@@ -3,8 +3,8 @@ def solution(ladders, win):
     player = [1, 2, 3, 4, 5, 6]
     for e in ladders:
         temp = player[e[0]-1]
-        @@@ = @@@
-        @@@ = temp
+        player[e[0]-1] = player[e[1]-1]
+        playerplayer[e[1]-1] = temp
     answer = player[win-1]
     return answer
 
