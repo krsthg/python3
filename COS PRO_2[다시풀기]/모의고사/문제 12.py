@@ -1,6 +1,5 @@
 def solution(cards):
     answer = [0,0,0]
-    answer = [0,0,0]
     j = 0
     for i in cards:
         if i[0] == "blue":
