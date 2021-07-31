@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0ab3fd1-906b-47d0-8873-fcd54be4e2f3" name="Default Changelist" comment="" />
+    <list default="true" id="e0ab3fd1-906b-47d0-8873-fcd54be4e2f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WEB/Day 01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/1. Form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/2. Table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/M 게시판 작성 페이지.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/M 게시판 페이지.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/M 게시판1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/M 로그인 페이지.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/M 회원가입 페이지.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/구름.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/문제 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/문제 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/문제 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/비.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 02/해.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/Cat - 39009.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/Cat - 39009.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/Cat - 65438.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/Cat - 65438.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/HTML 기본1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/HTML 기본1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/HTML 기본2.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/HTML 기본2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/HTML 기본3.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/HTML 기본3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/HTML 기본4.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/HTML 기본4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/camping-4303357_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/camping-4303357_1920.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/cat-1285634_1920.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/cat-1285634_1920.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/cat-323262_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/cat-323262_1920.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/music.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/music.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/panorama-3629120_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/panorama-3629120_1920.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/snowflakes-winter-christmas-swing-music-1285.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/snowflakes-winter-christmas-swing-music-1285.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/summerfield-336672_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/summerfield-336672_1920.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/sunset-1331088_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/sunset-1331088_1920.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/wet-918506_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/wet-918506_1920.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/노선도.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/노선도.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/여름시1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/여름시1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/여름시2.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/여름시2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/여름시3.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/여름시3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/여름시4.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/여름시4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/여름시5.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/여름시5.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +67,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rvBevPc0XPC7f73ey9hfQynT1T" />
   <component name="ProjectViewState">
@@ -20,11 +80,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python3\WEB\Day 02" />
+      <recent name="C:\python3\WEB\Day 01" />
+      <recent name="C:\python3" />
       <recent name="C:\Users\User\PycharmProjects\python2\문제300\game\틱택톡" />
     </key>
   </component>
@@ -60,6 +124,40 @@
       <option name="presentableId" value="Default" />
       <updated>1619846781598</updated>
     </task>
+    <task id="LOCAL-00001" summary="WEB">
+      <created>1627202409425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627202409425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WEB" />
+    <option name="LAST_COMMIT_MESSAGE" value="WEB" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="227" key="Vcs.Push.Dialog.v2" timestamp="1627202411009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="617" y="227" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627202411009" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1627708961850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1627708961850" />
   </component>
 </project>
