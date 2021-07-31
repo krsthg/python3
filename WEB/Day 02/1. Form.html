@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <!-- 주석 -->
+    <!--
+        1. form 태그
+            1. inout 태그: 입력상자
+                1. type 속성
+                    type = "text": 텍스트 입력 상자
+                    type = "password": 비밀번호 입력 상자
+                    type = "radio": ◎ 동그라미 버튼[중복선택 불가능]
+                    type = "checkboc": □ 네모 버튼[복수선택 가능]
+                    type = "file": 파일 선택 버튼
+                    type = "color": 색상 선택 버튼
+                    type = "date": 날짜 선택 버튼
+                    type = "time": 시간 선택 버튼
+                    type="button": 버튼 모양의 버튼
+                    type="submit": 보내기 버튼
+                    type="reset": 초기화 버튼
+                2. name 속성: 상자의 이름
+    -->
+    <form>
+        이름: <input type="text"> <br>
+        비밀번호: <input type="password"> <br>
+        이메일 수신: <input type="radio" name="email"> 예
+                    <input type="radio" name="email"> 아니요 <br>
+        분야:
+
+        첨부파일: <input type="file"> <br>
+        날짜: <input type = "date"> <br>
+        시간: <input type = "time"> <br>
+        색상: <input type = "color"><br>
+        버튼 <input type="button" value="확인"><br>
+            <input type="submit" value="등록">
+            <input type="reset" value="취소">
+        이메일: <input type="tect"> @
+                <select>
+                    <option> 직접 입력 </option>
+                    <option> naver.com </option>
+                    <option> gmail.com </option>
+                </select><br>
+        긴글텍스트:<br> <textarea rows="20" cols="50"></textarea>
+    </form>
+
+    <form>
+        <!--
+            size: 상자 가로길이
+            maxlength: 텍스트 최대입력 문자수
+        -->
+        <p>아이디: <input type="text" size="12" maxlength="8"> </p>
+        <p>패스워드: <input type="radio" size="12" maxlength="8"> </p>
+        <p>메일수신여부: <input type="radio" name="receive"> 예
+                     <input type="radio" name="receive"> 아니요 </p>
+        파일올리기: <input type="file">
+        <p>관심분야: <input type="checkbox" name="ch1"> 축구
+                     <input type="checkbox" name="ch1"> 야구
+                     <input type="checkbox" name="ch1"> 배구
+                     <input type="checkbox" name="ch1"> 농구
+        </p>
+        <p> <input type="submit" value="전송">
+        <input type="reset" value="취소"></p>
+    </form>
+</body>
+</html>
