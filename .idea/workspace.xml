@@ -20,43 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0ab3fd1-906b-47d0-8873-fcd54be4e2f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WEB/Day 01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/1. Form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/2. Table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/M 게시판 작성 페이지.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/M 게시판 페이지.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/M 게시판1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/M 로그인 페이지.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/M 회원가입 페이지.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/구름.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/문제 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/문제 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/문제 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/비.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/Day 02/해.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 03/1. 부트스트랩.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 03/2. 부트스트랩 글쓰기.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 03/Board.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 03/Bwrite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 03/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 03/Menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 03/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 03/문제 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Day 03/문제 2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/Cat - 39009.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/Cat - 39009.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/Cat - 65438.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/Cat - 65438.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/HTML 기본1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/HTML 기본1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/HTML 기본2.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/HTML 기본2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/HTML 기본3.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/HTML 기본3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/HTML 기본4.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/HTML 기본4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/camping-4303357_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/camping-4303357_1920.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/cat-1285634_1920.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/cat-1285634_1920.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/cat-323262_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/cat-323262_1920.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/music.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/music.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/panorama-3629120_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/panorama-3629120_1920.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/snowflakes-winter-christmas-swing-music-1285.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/snowflakes-winter-christmas-swing-music-1285.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/summerfield-336672_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/summerfield-336672_1920.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/sunset-1331088_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/sunset-1331088_1920.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/wet-918506_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/wet-918506_1920.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/노선도.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/노선도.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/여름시1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/여름시1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/여름시2.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/여름시2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/여름시3.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/여름시3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/여름시4.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/여름시4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB/여름시5.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Day 01/여름시5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +55,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WEB/Day 03" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\python3\WEB\Day 03" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python3\WEB\Day 03" />
+      <recent name="C:\python3\WEB" />
       <recent name="C:\python3\WEB\Day 02" />
       <recent name="C:\python3\WEB\Day 01" />
       <recent name="C:\python3" />
-      <recent name="C:\Users\User\PycharmProjects\python2\문제300\game\틱택톡" />
     </key>
   </component>
   <component name="RunManager">
@@ -131,7 +108,42 @@
       <option name="project" value="LOCAL" />
       <updated>1627202409425</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2021-07-31">
+      <created>1627721343277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627721343277</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2021-07-25">
+      <created>1627721367963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627721367963</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2021-07-31">
+      <created>1627721480640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627721480640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2021-07-31">
+      <created>1627794478267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627794478267</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2021-07-31">
+      <created>1627794558709</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627794558709</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,13 +160,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="WEB" />
-    <option name="LAST_COMMIT_MESSAGE" value="WEB" />
+    <MESSAGE value="2021-07-25" />
+    <MESSAGE value="2021-07-31" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-07-31" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="227" key="Vcs.Push.Dialog.v2" timestamp="1627202411009">
+    <state x="738" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627802535045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="617" y="227" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627202411009" />
+    <state x="738" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1627802535045" />
+    <state x="617" y="227" key="Vcs.Push.Dialog.v2" timestamp="1627794560084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="617" y="227" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627794560084" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1627708961850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

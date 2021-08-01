@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- 부트스트랩 설치 -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <!--
+
+        부트스트랩: 미리 꾸며진 스타일[미리 만들어진 꾸미기 설정]
+        [사용방법]: 태그안에 class 입력
+            class="부트스트랩스타일명"
+                class="container": 박스[상자] 구역 만들기
+                 class="table": 꾸며진 테이블 사용
+                    class="table table-striped": 테이블 홀/짝 행 구별 색상
+                class="form-control": input 태그들 모양 꾸미기
+                class="btn btn-info": 버튼 모양 꾸미기
+        style="margin: 0 auto": 해당 태그 가운데 정렬
+            margin: 가운데 여백
+        <div align="right">: div 테그 오른쪽 정렬
+    -->
+    <div class="container">
+
+        <div align="right">
+            <a href="a"><button class="btn btn-success"> 글쓰기</button></a>
+        </div>
+
+        <table class="table table-striped">
+            <thead><tr>
+                <th>번호</th><th>제목</th><th>작성자</th><th>작성일</th><th>조회수</th>
+            </tr></thead>
+            <tbody>
+                <tr><td>4</td><td>제목위치1</td><td>최우식</td><td>2021-08-01</td><td>13</td></tr>
+                <tr><td>3</td><td>제목위치2</td><td>하정우</td><td>2021-07-01</td><td>42</td></tr>
+                <tr><td>2</td><td>제목위치3</td><td>조정석</td><td>2021-06-01</td><td>76</td></tr>
+                <tr><td>1</td><td>제목위치4</td><td>고등어</td><td>2021-05-01</td><td>32</td></tr>
+            </tbody>
+        </table>
+
+        <table style="margin: 0 auto">
+            <tr><td><select class="for">
+                    <option>제목</option>
+                    <option>작성자</option>
+                    <option>작성일</option>
+                </select></td></tr>
+            <td><input type="text" class="form-control" placeholder="검색어 입력"></td>
+            <td><input type="submit" value="search" class="btn btn-info"></td>
+        </table>
+
+    </div>
+</body>
+</html>
